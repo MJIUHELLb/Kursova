@@ -1,0 +1,9 @@
+D:\Kursova\Labirunt\Labirunt\bin\Debug\Labirunt.exe
+D:\Kursova\Labirunt\Labirunt\bin\Debug\Labirunt.pdb
+D:\Kursova\Labirunt\Labirunt\obj\x86\Debug\Labirunt.Form1.resources
+D:\Kursova\Labirunt\Labirunt\obj\x86\Debug\Labirunt.Properties.Resources.resources
+D:\Kursova\Labirunt\Labirunt\obj\x86\Debug\Labirunt.csproj.GenerateResource.Cache
+D:\Kursova\Labirunt\Labirunt\obj\x86\Debug\Labirunt.exe
+D:\Kursova\Labirunt\Labirunt\obj\x86\Debug\Labirunt.pdb
+D:\Kursova\Labirunt\Labirunt\obj\x86\Debug\Labirunt.Form2.resources
+D:\Kursova\Labirunt\Labirunt\obj\x86\Debug\Labirunt.csprojResolveAssemblyReference.cache
